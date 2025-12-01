@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"tenantOfferId":{"$numberInt":"1"}},"name":"tenantOfferId_1","unique":true}],"uuid":"234d703a325140cc974cd5848ba60bf9","collectionName":"offers","type":"collection"}

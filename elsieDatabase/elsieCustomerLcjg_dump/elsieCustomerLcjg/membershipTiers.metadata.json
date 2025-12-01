@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"membershipSchemeId":{"$numberInt":"1"},"tenantMembershipTierId":{"$numberInt":"1"}},"name":"membershipSchemeId_1_tenantMembershipTierId_1","unique":true}],"uuid":"1f11ec5a311646da93d8d1326d8ed294","collectionName":"membershipTiers","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"customerOrderId":{"$numberInt":"1"}},"name":"customerOrderId_1","unique":true}],"uuid":"fc3812dfa9a243e7bfd1a4f61ae1deca","collectionName":"customerOrderAllocations","type":"collection"}
