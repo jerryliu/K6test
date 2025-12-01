@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"customerId":{"$numberInt":"1"},"tierId":{"$numberInt":"1"}},"name":"customerId_1_tierId_1","unique":true}],"uuid":"82c17dbf69c44305966ca527add85517","collectionName":"memberships","type":"collection"}

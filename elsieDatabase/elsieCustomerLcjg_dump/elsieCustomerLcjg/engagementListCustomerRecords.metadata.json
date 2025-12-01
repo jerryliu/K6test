@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"customerId":{"$numberInt":"1"},"engagementListId":{"$numberInt":"1"}},"name":"customerId_1_engagementListId_1","unique":true}],"uuid":"4fae25d97eb24e8b87dd3313d0ee34e4","collectionName":"engagementListCustomerRecords","type":"collection"}

@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"tenantMembershipSchemeId":{"$numberInt":"1"}},"name":"tenantMembershipSchemeId_1","unique":true}],"uuid":"49921efe53214344afd920a268baf0e1","collectionName":"membershipSchemes","type":"collection"}

@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"tenantEngagementListId":{"$numberInt":"1"},"type":{"$numberInt":"1"}},"name":"tenantEngagementListId_1_type_1","unique":true}],"uuid":"e188c276174d4b5ca8e22317e7d52ce0","collectionName":"engagementLists","type":"collection"}
